@@ -1,3 +1,28 @@
+
+🎬 VideoLingo – Dự án 17.2k⭐ giúp dịch, phụ đề và lồng tiếng video bằng AI chỉ với vài cú click
+
+Nếu bạn đang làm YouTube, TikTok, khóa học online hay muốn đưa nội dung ra thị trường quốc tế, VideoLingo là một dự án mã nguồn mở rất đáng chú ý. Hiện repo đã đạt hơn 17.2k⭐ trên GitHub. (GitHub⁠￼)
+
+VideoLingo tự động xử lý toàn bộ quy trình:
+• Nhận diện giọng nói bằng WhisperX với độ chính xác cao.
+• Cắt và căn chỉnh phụ đề tự động theo chuẩn Netflix.
+• Dịch video sang nhiều ngôn ngữ bằng các LLM như Gemini, GPT, Claude, DeepSeek…
+• Lồng tiếng AI với GPT-SoVITS, Azure TTS, OpenAI TTS và nhiều hệ thống khác.
+• Tải video YouTube trực tiếp và xử lý chỉ trong một workflow duy nhất. (GitHub⁠￼)
+
+Điểm nổi bật nhất là khả năng tạo phụ đề một dòng, dịch tự nhiên hơn so với nhiều công cụ dịch video phổ biến hiện nay. Dự án cũng hỗ trợ chạy local, Docker hoặc sử dụng API từ nhiều nhà cung cấp AI khác nhau. (GitHub⁠￼)
+
+Ứng dụng thực tế:
+• Việt hóa video nước ngoài.
+• Dịch khóa học và tài liệu đào tạo.
+• Tạo kênh YouTube đa ngôn ngữ.
+• Lồng tiếng podcast, video giáo dục và nội dung marketing.
+• Hỗ trợ xây dựng hệ thống localization cho doanh nghiệp. (GitHub⁠￼)
+
+Trong bối cảnh AI video đang bùng nổ, VideoLingo là một trong những dự án mã nguồn mở mạnh nhất hiện nay cho bài toán dịch và lồng tiếng video tự động.
+
+
+
 <div align="center">
 
 <img src="/docs/logo.png" alt="VideoLingo Logo" height="140">
